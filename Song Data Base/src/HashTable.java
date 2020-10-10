@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * object stores Songs into a hash table specified by the SongADT interface, and via its parent, the
  * HashTableMap class.
  * 
- *
+ * 
  */
 public class HashTable extends HashTableMap<String, Song> implements SongADT {
 
@@ -16,7 +16,7 @@ public class HashTable extends HashTableMap<String, Song> implements SongADT {
                                    // the HashTableMap.
 
   /**
-   * Default constructor. Specifies default file paths.
+   * Default constructor that specifies default file paths.
    */
   public HashTable() {
     this("SongList.txt", "LinkList.txt");

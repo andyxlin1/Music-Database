@@ -6,7 +6,6 @@ import java.util.ArrayList;
  * object stores Songs into a hash table specified by the SongADT interface, and via its parent, the
  * HashTableMap class.
  * 
- * @author Drew Paterno
  *
  */
 public class HashTable extends HashTableMap<String, Song> implements SongADT {

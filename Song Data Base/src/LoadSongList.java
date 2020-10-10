@@ -15,7 +15,7 @@ public class LoadSongList {
 	private String linkFileName;
 
 	/**
-	 * constructor, takes in two file names
+	 * constructor that takes in two file names
 	 * 
 	 * @param songFileName the file name/ path for songs
 	 * @param linkFileName the file name/ path for links

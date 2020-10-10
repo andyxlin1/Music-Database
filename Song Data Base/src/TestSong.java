@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Andy Lin
-// Email: <alin47@wisc.edu>
-// Team: <NB>
-// Role: <Test Engineer>
-// TA: <Daniel Finer>
-// Lecturer: <Gary Dahl>
-// Notes to Grader: <optional extra notes>
 
 /**
  * Ensures the Program works correctly by checking the functionality of all methods used by the

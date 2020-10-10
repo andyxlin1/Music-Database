@@ -1,4 +1,4 @@
-
+// interface for HashTable implementation
 import java.util.NoSuchElementException;
 
 public interface SongADT {

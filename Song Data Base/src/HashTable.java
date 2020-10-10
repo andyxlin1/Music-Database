@@ -1,14 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Drew Paterno
-// Email: dpaterno@wisc.edu
-// Team: NB
-// TA: Dainel Finer (dfiner@wisc.edu)
-// Lecturer: Florian Heimerl
-// Notes to Grader: I store the songs and names of songs in unsorted ArrayList in addition to the
-// Hash Table (as implemented by the HashTableMap) in order to be able to iterate through the list
-// of songs for other methods within this class. Without this, there would be no way to access a
-// list of every element stored without changing the array instance field in the HashTableMap to
-// protected instead of private.
 
 import java.util.ArrayList;
 

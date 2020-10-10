@@ -1,14 +1,6 @@
-// --== CS400 File Header Information ==--
-// Name: Andy Lin
-// Email: <alin47@wisc.edu>
-// Team: <NB>
-// TA: <Daniel Finer>
-// Lecturer: <Gary Dahl>
-// Notes to Grader: <optional extra notes>
 
 /**
  * Linked List class that contains the key and value in each linked list.
- * @author Andy Lin
  *
  * @param <KeyType> The generic type of the key.
  * @param <ValueType> The generic type of the value

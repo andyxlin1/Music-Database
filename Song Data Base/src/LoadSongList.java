@@ -1,10 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Jiaming Zhang
-// Email: jzhang2254@wisc.edu
-// Team: NB
-// TA: Dainel Finer (dfiner@wisc.edu)
-// Lecturer: Florian Heimerl
-// Notes to Grader: none
 
 import java.io.File;
 import java.io.FileNotFoundException;

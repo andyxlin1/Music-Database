@@ -8,7 +8,6 @@ import java.util.Scanner;
  * This class takes in two file names, reads the files, and return the
  * information in an ArrayList of Song.class instances
  * 
- * @author Jiaming
  *
  */
 public class LoadSongList {

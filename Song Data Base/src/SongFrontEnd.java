@@ -1,11 +1,4 @@
-// --== CS400 File Header Information ==--
-// Name: Ivan Man
-// Email: igman@wisc.edu
-// Team: NB
-// Role: Front End
-// TA: Daniel
-// Lecturer: Florian Heimerl
-// Notes to Grader: NONE
+
 import java.util.Scanner; 
 import java.util.ArrayList;
 import java.util.NoSuchElementException; 

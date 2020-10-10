@@ -3,7 +3,6 @@
  * Ensures the Program works correctly by checking the functionality of all methods used by the
  * FrontEnd, BackEnd, and DataWrangler.
  * 
- * @author Andy Lin
  *
  */
 public class TestSong {

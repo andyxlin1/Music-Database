@@ -11,7 +11,7 @@ public class Song {
   private String artist; // a String representation of the name of the singer
   private String version; // version
   private String link; // URL to access the song
-  private String date; 
+  private String date; // date song was made
   
   /**
    * Creates a song object

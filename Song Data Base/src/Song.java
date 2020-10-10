@@ -14,7 +14,7 @@ public class Song {
   private String date; 
   
   /**
-   * Creates a song 
+   * Creates a song object
    * 
    * @param song name, artist, genre and version
    */
